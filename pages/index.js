@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+    <h1> Privacy policy</h1>
            <p>
 
          We are committed to protecting your privacy. This Privacy Policy outlines how we handle your personal information when you use our News Application. We want to assure you that we do not collect any user data or personally identifiable information (PII) during your interaction with our application.
